@@ -1,0 +1,11 @@
+D:\delete\DjangoWebProject1\DjangoWebProject1\bin\Microsoft.PythonTools.WebRole.dll
+D:\delete\DjangoWebProject1\DjangoWebProject1\obj\Debug\attach_server.py
+D:\delete\DjangoWebProject1\DjangoWebProject1\obj\Debug\visualstudio_py_debugger.py
+D:\delete\DjangoWebProject1\DjangoWebProject1\obj\Debug\visualstudio_py_repl.py
+D:\delete\DjangoWebProject1\DjangoWebProject1\obj\Debug\visualstudio_py_util.py
+D:\delete\DjangoWebProject1\DjangoWebProject1\obj\Debug\__init__.py
+D:\delete\DjangoWebProject1\DjangoWebProject1\obj\Debug\__main__.py
+D:\delete\DjangoWebProject1\DjangoWebProject1\bin\AzureSetup.cfg
+D:\delete\DjangoWebProject1\DjangoWebProject1\bin\Microsoft.PythonTools.AzureSetup.exe
+D:\delete\DjangoWebProject1\DjangoWebProject1\bin\Microsoft.PythonTools.AzureSetup.exe.config
+D:\delete\DjangoWebProject1\DjangoWebProject1\bin\wfastcgi.py
